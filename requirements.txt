@@ -1,0 +1,5 @@
+platformio>=6.1,<7      # build and flash the ESP32-S3 firmware
+pyserial>=3.5           # USB-C serial link and monitor
+numpy>=1.26             # real-time audio DSP and frame buffers
+opencv-python>=4.9,<5   # Haar cascade face tracking and HUD overlay
+google-genai>=1.30      # Gemini Live API (voice, vision, and tool calls)
